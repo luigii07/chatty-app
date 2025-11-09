@@ -1,0 +1,8 @@
+type MessageAPIResponse = {
+    _id: string,
+    senderId: string,
+    receiverId: string,
+    image: string,
+    text: string,
+    createdAt: string,
+}
